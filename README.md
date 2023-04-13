@@ -34,7 +34,7 @@ file in your terminal. The tool will guide you through the process of creating y
 
 
     
-![its an img](../peep.PNG)
+![its an img](./peep.PNG)
 ## Credits
 * Collaborators
 n/a
